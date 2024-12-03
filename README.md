@@ -1,3 +1,6 @@
+
+
+<!-- 
 # Why are Visually-Grounded Language Models Bad at Image Classification?
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
@@ -44,3 +47,4 @@ If you use this repo in your research, please cite it as follows:
   year={2024}
 }
 ```
+-->
